@@ -16,3 +16,8 @@ Sie ist eine Prinzessin.
 Twilight sagt:
 > Freundschaft ist Magie
 > Friendship is Magic
+
+Lizenz Bild: https://creativecommons.org/licenses/by-sa/3.0/
+
+<img src="https://de.wikipedia.org/wiki/Deutschsprachige_Wikipedia#/media/Datei:Wikipedia-logo-v2-de.svg"/>
+
