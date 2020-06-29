@@ -11,3 +11,8 @@ Sie ist eine Prinzessin.
 * kann zaubern
 * lernt sehr viel
 * auf sie kann man sich verlassen
+
+
+Twilight sagt:
+> Freundschaft ist Magie
+> Friendship is Magic
